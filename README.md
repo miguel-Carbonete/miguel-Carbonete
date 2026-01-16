@@ -18,3 +18,20 @@
  I have a strong **back-end foundation** in **Java, C, C#, and Python**, built through courses and hands-on experience. Currently, I am deepening my skills in **modern front-end development**, using **HTML, CSS, JavaScript, and frameworks such as React**, with the goal of delivering complete, scalable, and well-structured applications.
 
  I am highly motivated by **web development, automation, APIs, databases, clean code practices, and continuous learning**, always striving to build efficient and impactful solutions.
+
+ ## Technologies and Tools
+ 
+ **Front-end:** HTML | CSS | JavaScript | React  
+**Back-end:** Java | Python | C# | C  
+**Databases:** PostgreSQL | MySQL | SQLite  
+**Tools & Concepts:** Git | GitHub | REST APIs | JSON | Automation | Clean Code  
+**Currently Learning:** Advanced React | API Integration | Full Stack Architecture
+
+## Carrer Focus
+
+- Full Stack Web Development  
+- API Design & Integration  
+- Automation & Process Optimization  
+- Continuous Learning and Best Practices  
+
+
