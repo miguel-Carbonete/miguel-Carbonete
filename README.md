@@ -1,37 +1,32 @@
-## 👋 Olá! Meu nome é **Miguel Carbonete**.
+## Hi, my name is Miguel Carbonete, fullstack developer!
 
- Sou estudante de **Engenharia de Software** e atuo atualmente como **Auxiliar de Dados e Automação**, com foco em soluções que unem desenvolvimento, automação e organização de processos.
+|![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguel-Carbonete&show_icons=true&theme=tokyonight)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-Carbonete&layout=compact&theme=tokyonight)|
+|:-:|:-:|
 
- Estou em transição para atuar como **Desenvolvedor Full Stack**, participando de todas as etapas do ciclo de vida de aplicações — desde a análise de requisitos e arquitetura da solução, passando pelo desenvolvimento front-end e back-end, até testes, implantação e manutenção.
+## About me!
+I am a Software Engineering student focused on software development and process automation. I have experience with languages such as Java, Python, C#, and JavaScript, and I work on projects involving backend development, PDF report generation, data integration, and APIs.
 
- Possuo base sólida em **back-end** com **Java, C, C# e Python**, adquirida por meio de cursos e experiências práticas. Atualmente, estou aprofundando meus conhecimentos em **front-end moderno**, utilizando **HTML, CSS, JavaScript e frameworks como React**, com o objetivo de entregar aplicações completas, escaláveis e bem estruturadas.
+I am constantly improving my skills through hands-on projects, contributing across the full development lifecycle — from solution design to implementation and maintenance. My main interests are backend development, automation, and scalable systems, with a strong focus on clean, organized, and maintainable code.
+##
 
- Tenho grande interesse em **desenvolvimento web, automação, APIs, bancos de dados, boas práticas de código e aprendizado contínuo**. Busco sempre evoluir tecnicamente e contribuir com soluções eficientes e de impacto real.
-
-
-## 👋 Hello! My name is **Miguel Carbonete**.
-
- I am a **Software Engineering student** currently working as a **Data and Automation Assistant**, focused on building solutions that combine development, automation, and process optimization.
-
- I am transitioning into a **Full Stack Developer** role, aiming to contribute throughout the entire application lifecycle — from requirements analysis and solution architecture to front-end and back-end development, testing, deployment, and maintenance.
-
- I have a strong **back-end foundation** in **Java, C, C#, and Python**, built through courses and hands-on experience. Currently, I am deepening my skills in **modern front-end development**, using **HTML, CSS, JavaScript, and frameworks such as React**, with the goal of delivering complete, scalable, and well-structured applications.
-
- I am highly motivated by **web development, automation, APIs, databases, clean code practices, and continuous learning**, always striving to build efficient and impactful solutions.
-
- ## Technologies and Tools
+<div style="display: inline_block;"><br>
+  
+ <img style="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   
+ <img style ="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
  
- **Front-end:** HTML | CSS | JavaScript | React  
-**Back-end:** Java | Python | C# | C  
-**Databases:** PostgreSQL | MySQL | SQLite  
-**Tools & Concepts:** Git | GitHub | REST APIs | JSON | Automation | Clean Code  
-**Currently Learning:** Advanced React | API Integration | Full Stack Architecture
-
-## Carrer Focus
-
-- Full Stack Web Development  
-- API Design & Integration  
-- Automation & Process Optimization  
-- Continuous Learning and Best Practices  
-
-
+ <img style ="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+ 
+  <img style ="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  
+   <img style ="width: 50px; height: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+</div>
+  
+  ##
+ 
+<div> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:miguel.carbonete@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
